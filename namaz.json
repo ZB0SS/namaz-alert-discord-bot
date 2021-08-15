@@ -1,0 +1,12 @@
+{
+    "Fajr": "04:51",
+    "Sunrise": "06:13",
+    "Dhuhr": "13:15",
+    "Asr": "17:06",
+    "Maghrib": "20:18",
+    "Isha'a": "21:39",
+    "closest_prayer": {
+        "namazName": "Asr",
+        "millasecondsLeft": 1227409.1739999999
+    }
+}
